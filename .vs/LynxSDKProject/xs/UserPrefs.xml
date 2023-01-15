@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{CEF23625-A593-679A-4E5C-51EAA96A0912}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.xr.interaction.toolkit@2.0.0/Runtime/Interaction/XRInteractionManager.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.ultraleap.tracking.preview@6.2.1/XR Interaction Toolkit Integration/Runtime/TrackedHandsController.cs" Line="1" Column="1" />
+      <File FileName="Library/PackageCache/com.ultraleap.tracking.preview@6.2.1/HandRays/Runtime/Utils/EulerAngleDeadzone.cs" Line="1" Column="1" />
+      <File FileName="Assets/Lynx/Core/Utils/Scripts/AndroidComMng.cs" Line="1" Column="1" />
+      <File FileName="Assets/Lynx/Samples/HandTracking/0. Base/Scripts/TestARVR.cs" Line="104" Column="49" />
+      <File FileName="Library/PackageCache/com.unity.xr.interaction.toolkit@2.0.0/Runtime/Interaction/XRInteractionManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LynxSDKProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Lynx" expanded="True">
+                <Node name="Core" expanded="True">
+                  <Node name="Utils" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Samples" expanded="True">
+                  <Node name="HandTracking" expanded="True">
+                    <Node name="0. Base" expanded="True">
+                      <Node name="Scripts" expanded="True">
+                        <Node name="TestARVR.cs" selected="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ArcGISMapsSDK PreferredExecutionTarget="097d1cc9-21e5-425c-ac57-880985bac1d6" />
+</Properties>
